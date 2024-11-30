@@ -1,0 +1,69 @@
+Section 1 : Connaissances générales
+
+  Bases du développement web
+
+    Qu'est-ce que le développement web, et pourquoi est-il essentiel dans le contexte d'Internet ?
+
+       Le développement web est le processus de création et de maintenance de site web ou d'applications web 
+       qui sont accessibles à partir d'internet. Cela inclut la conception de l'interface que l'utilisateur voit 
+       et avec laquelle il interagit (front-end), ainsi que la gestion des données et des fonctionnalités en arrière-plan (back-end).
+  
+  Connaissances HTML
+
+    Avez-vous entendu parler de HTML ? Si oui, que signifie HTML et quel est son principal objectif dans le développement web ?
+     
+       Oui j'ai entendu parlé de HTML.
+       HTML qui signifie HyperText Markup Language est un langage de balisage et est utilisé dans l'objectif
+       de créér et structurer le contenu de toute solution web.
+
+
+
+Section 2 : Familiarité avec CSS
+
+  Compréhension de CSS
+
+    Êtes-vous familier avec CSS ? Si oui, expliquez brièvement à quoi sert CSS dans le développement web.
+
+       Oui, le CSS sert à ajouter du style à notre contenu web, afin de l'embellir et de le rendre plus attrayant.
+
+
+
+Section 3 : JavaScript et son importance
+
+   Introduction à JavaScript
+
+     Avez-vous entendu parler de JavaScript ? Si oui, qu'est-ce que JavaScript et pourquoi est-il crucial pour créer des sites web interactifs ?
+
+       Oui, JavaScript est un langage de programmation il est crucial pour créer des sites web interactifs car il permet d'ajouter des animations,
+       des effets visuels, de gerer les intéractions des utilisateurs et de controler les éléments de nos pages de façon dynamique.
+
+
+
+Section 4 : Introduction à React et Node.js
+
+   Connaissance de React et Node.js
+
+     Êtes-vous familier avec React et Node.js ? Si oui, fournissez une brève description de ce à quoi React et Node.js sont généralement utilisés dans le développement web.
+
+       Oui, React est une bibliothèque JavaScript utilisée principalement pour construire des interfaces utilisateurs dynamiques et interactives il permet de créer
+       des composants réutilisables pour faciliter la gestion du contenu.
+       Concernant Node.js c'est un environnement d'exécution de JavaScript coté serveur.
+
+
+
+Section 5 : Question bonus
+
+     Intentions d'apprentissage
+
+      Pourquoi voulez-vous apprendre le développement web, et qu'espérez-vous réaliser en acquérant des compétences en HTML, CSS, JavaScript, React et Node.js ?
+
+        Le développement web est un domaine clé pour la création de sites et d'applications web interactives.
+        Apprendre le développement web me permettra de construire des expériences fonctionnelles et attrayantes en ligne.
+
+        En acquérant des compétences en HTML, CSS, JavaScript, React, et Node.js, je pourrai :
+
+           HTML : Créer la structure de base de sites web.
+           CSS : Styliser et rendre les sites visuellement attrayants.
+           JavaScript : Rendre les sites interactifs, avec des animations.
+           React : Créer des interfaces utilisateur dynamiques et réactives.
+           Node.js : Développer la partie serveur des applications web et gérer les données.
